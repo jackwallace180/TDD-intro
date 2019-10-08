@@ -1,6 +1,8 @@
 # :repeat: TDD :heavy_check_mark:
 
-## benefits
+ ![TDD](https://cdn-media-1.freecodecamp.org/images/6k9ojiN7VEFUUNKroUU62gZVf2pzzPnC5IbV)
+
+##  :moneybag: :moneybag: :moneybag: benefits :moneybag: :moneybag: :moneybag:
  - simple code
  - atomic
  - code to specs
@@ -8,5 +10,6 @@
  - maintainability
  - reduce technical debt - more important for technical work (with maintainability)
 
- ![TDD](https://cdn-media-1.freecodecamp.org/images/6k9ojiN7VEFUUNKroUU62gZVf2pzzPnC5IbV)
+
+
 
